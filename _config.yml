@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
 title: Logan Burton
-description: Masters of Computational Analysis and Public Policy candidate at the University of Chicago
+first_name: Logan
+last_name: Burton
+url: https://StLaurentMTL.github.io # or your custom domain
+baseurl: # Leave this empty (do NOT delete it)
